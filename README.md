@@ -39,6 +39,17 @@ Celem było zaprojektowanie endoprotezy dopasowanej do indywidualnego przypadku 
   - wytrzymałością mechaniczną
   - lekkością i porowatością sprzyjającą osteointegracji
   - stabilnością i dopasowaniem do ubytku kostnego
+ 
+### Model kości ramiennej
+
+![Model kości ramiennej](images/Kosc_z_wypelnieniem.png)
+*Wyselekcjonowana, oczyszczona i wypełniona lewa kość ramienna po segmentacji z danych DICOM*
+
+### Zbliżenie — struktura wypełnienia Woronoja
+
+![Struktura Woronoja](images/zblizenie.png)
+*Szczegół wypełnienia Voronoi zastosowanego w obszarze resekcji onkologicznej*
+
 
 ---
 
